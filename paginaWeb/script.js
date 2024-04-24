@@ -4,8 +4,9 @@ const confirmaMotor = document.getElementById('confirmaMotor');
 const msgPot = document.getElementById('msgPot');
 const msg = document.getElementById('msg');
 
-var urlPost = 'https://leanwebsensor1.onrender.com/chaves'
-var urlGet = 'https://leanwebsensor1.onrender.com/producao'
+var urlPost = 'https://clpmotor.onrender.com/chaves'
+var urlGet = 'https://clpmotor.onrender.com/velocidade'
+var urlGet = 'https://clpmotor.onrender.com/confirmacao'
 
 confirm = 0;
 
